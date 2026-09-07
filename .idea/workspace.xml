@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="11b22fa6-4e7a-4902-9bcb-ab7e76352877" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cyberEducationDigitalBooks/NetworkingBook/example.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +50,17 @@
     "Python.assertExcersise.executor": "Run",
     "Python.avgTwoLists.executor": "Run",
     "Python.client.executor": "Run",
+    "Python.clientSocket.executor": "Run",
     "Python.copyingMachine.executor": "Run",
     "Python.echo_server.executor": "Run",
     "Python.filesExcersise.executor": "Run",
+    "Python.firstClientSocket.executor": "Run",
+    "Python.firstServerSocket.executor": "Run",
     "Python.main_of_plane.executor": "Run",
     "Python.multipleLetter.executor": "Run",
     "Python.onlyDivideThree.executor": "Run",
     "Python.plane.executor": "Run",
+    "Python.serverSocket.executor": "Run",
     "Python.seventyFive.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
